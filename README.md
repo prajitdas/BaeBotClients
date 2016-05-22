@@ -1,2 +1,2 @@
 # BaeBotClients
-Clients for BaeBot
+Clients for BaeBots
