@@ -19,7 +19,7 @@ def doTask(username,api_key):
 				  'Content-Type': 'application/json'
 				  },
 				  data=json.dumps({
-								  "webhook": "https://6b6ce1d3.ngrok.io/umbcbae/kik_webhook/1234",
+								  "webhook": "https://8831000c.ngrok.io/umbcbae/kik_webhook/1234",
 								  "features": {
 								  "manuallySendReadReceipts": False,
 								  "receiveReadReceipts": False,
